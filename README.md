@@ -1,8 +1,20 @@
-# IOS-Netflix-application![Simulator Screen Shot - iPhone 13 Pro Max - 2023-06-15 at 10 13 02](https://github.com/Nsm7/IOS-Netflix-application/assets/36663979/cb325211-c625-4478-9a1c-144591e2b8a3)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2023-06-14 at 12 08 57](https://github.com/Nsm7/IOS-Netflix-application/assets/36663979/f712f9b2-731f-4d86-b764-ba7858b348b0)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2023-06-13 at 20 18 06](https://github.com/Nsm7/IOS-Netflix-application/assets/36663979/089316a3-0c26-4b4a-9749-b02dd063ba6e)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2023-06-13 at 20 17 58](https://github.com/Nsm7/IOS-Netflix-application/assets/36663979/f94404f3-850a-411a-865f-891d64adf81a)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2023-06-13 at 20 16 20](https://github.com/Nsm7/IOS-Netflix-application/assets/36663979/139e00e3-2a77-4413-882c-7f079ad0e365)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2023-06-13 at 20 16 15](https://github.com/Nsm7/IOS-Netflix-application/assets/36663979/b3762d70-c504-4260-9170-eac98bf00ab3)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2023-06-13 at 20 16 02](https://github.com/Nsm7/IOS-Netflix-application/assets/36663979/ffdafaca-5596-4d48-b889-2c3b41742a3e)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2023-06-13 at 20 15 51](https://github.com/Nsm7/IOS-Netflix-application/assets/36663979/e9d65673-5313-4732-be47-17ad30ffa143)
+
+ <img src="https://github.com/Nsm7/IOS-Netflix-application/assets/36663979/cb325211-c625-4478-9a1c-144591e2b8a3" width="350" height="700">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Nsm7/IOS-Netflix-application/assets/36663979/ffdafaca-5596-4d48-b889-2c3b41742a3e" width="350" height="700">
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+
+<img src="https://github.com/Nsm7/IOS-Netflix-application/assets/36663979/139e00e3-2a77-4413-882c-7f079ad0e365" width="350" height="700">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Nsm7/IOS-Netflix-application/assets/36663979/b3762d70-c504-4260-9170-eac98bf00ab3" width="350" height="700">
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://github.com/Nsm7/IOS-Netflix-application/assets/36663979/f712f9b2-731f-4d86-b764-ba7858b348b0" width="350" height="700">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Nsm7/IOS-Netflix-application/assets/36663979/089316a3-0c26-4b4a-9749-b02dd063ba6e" width="350" height="700">
+<img src="https://github.com/Nsm7/IOS-Netflix-application/assets/36663979/f94404f3-850a-411a-865f-891d64adf81a" width="350" height="700">
+
+
